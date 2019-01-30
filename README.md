@@ -42,7 +42,7 @@ ucore目前支持的硬件环境是基于Intel 80386以上的计算机系统。
 
 ## Resources  in my learning   
 
-[一本通俗易懂却内容不错的OS书籍：Operating Systems: Three Easy Pieces](Operating Systems: Three Easy Pieces),(提供的链接为作者提供的在线阅读版，其余未特殊说明皆为豆瓣链接)
+[一本通俗易懂却内容不错的OS书籍：Operating Systems: Three Easy Pieces](Operating Systems: Three Easy Pieces)     (链接为在线阅读地址)
 
  [深入理解计算机系统（原书第3版）](https://book.douban.com/subject/26912767/)，感觉可以为OS学习打好基础
 
